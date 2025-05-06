@@ -31,7 +31,7 @@ To collect the data, I used **SerpApi**:
    - Utilize **deep learning models** like **BERT** or **RoBERTa** for **context-aware** sentiment analysis.
 
 2. **Modular Code Structure**  
-   - Separate **API calls** and **data cleaning** into different scripts for **better organization**.
+   - Separate **API calls** and **data cleaning**  from **analysis** into different scripts for **better organization**.
 
 3. **Integrate Named Entity Recognition (NER)**  
    - Use **spaCy** to identify **specific entities**:
